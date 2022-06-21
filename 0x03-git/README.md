@@ -1,1 +1,1 @@
-Awesome stuff
+Collaboration readme
